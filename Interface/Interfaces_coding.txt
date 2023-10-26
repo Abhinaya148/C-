@@ -1,0 +1,5 @@
+﻿Build started...
+1>------ Build started: Project: Person, Configuration: Debug Any CPU ------
+1>  Person -> C:\Users\abhinayas\source\repos\Person\bin\Debug\Person.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build started at 13:38 and took 00.183 seconds ==========
